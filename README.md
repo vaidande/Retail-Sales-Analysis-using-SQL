@@ -46,4 +46,4 @@ This SQL project focuses on analyzing retail sales data from multiple tables in 
 
 15. Average and Total Revenue by Subcategory for Top 5 Categories by Quantity Sold: This query calculates the average and total revenue for each subcategory among the top 5 categories in terms of quantity sold.
 
-This project provides a comprehensive analysis of retail sales data, enabling
+This project provides a comprehensive analysis of retail sales data, enabling businesses to gain valuable insights into their sales performance. By leveraging SQL queries and data manipulation techniques, various aspects of the retail sales data are explored and analyzed.
